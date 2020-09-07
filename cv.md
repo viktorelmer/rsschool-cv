@@ -1,3 +1,7 @@
+# Resume
+
+**[Cite version](https://viktorelmer.github.io/rsschool-cv/index)**
+
 1. Nikita Losovskiy
 2.  * [VK](https://vk.com/mr_elk2015)
     * Discord: viktorelmer#9834
