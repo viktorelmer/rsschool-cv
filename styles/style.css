@@ -1,0 +1,68 @@
+* {
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 300;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    -moz-user-select: none;
+}
+
+body {
+    margin: 0;
+    background: #64958f;
+}
+
+.title {
+    margin: 0;
+    padding: 25px 0px;
+    user-select: none;
+    text-align: center;
+}
+
+/* Header */
+
+.header {
+    transition: 0.4s;
+    background: #64958f;
+}
+
+
+.header-title {
+    transition: 0.4s;
+    color: #ffbb91;
+    margin: 0;
+}
+
+.header-title:hover,
+.header:hover {
+    color: #64958f;
+    background: #ffbb91;
+}
+
+/* Info items */
+
+.info {
+    background: #64958f;
+    margin: auto;
+    max-width: 500px;
+}
+.items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.item {
+    margin: auto;
+    max-width: 50%;
+}
+
+.item-text {
+    color: #000;
+    transition: 0.4s;
+}
+
+.item-text:hover {
+    color: #faf3dd;
+    transition: 0.4s;
+    transform: rotateY(10deg) rotateX(10deg);
+}
